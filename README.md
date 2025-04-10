@@ -2,7 +2,7 @@
 # Java Object-Oriented Programming (OOP) – Spring 2025
 
 ## Course Overview
-This repository documents my journey through the **Java Object-Oriented Programming** course at [Your Institution], taught by **Professor Gil Salu**. The course focused on core programming concepts using Java, with a strong emphasis on object-oriented design, problem-solving, and building real-world applications.
+This repository documents my journey through the **Java Object-Oriented Programming** course at NCF, taught by **Professor Gil Salu**. The course focused on core programming concepts using Java, with a strong emphasis on object-oriented design, problem-solving, and building real-world applications.
 
 ## Course Details
 - **Instructor:** Professor Gil Salu  
